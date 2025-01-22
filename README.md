@@ -2,7 +2,7 @@
 C++ namespace wrapper for 1D/2D fft functionality provided by CUDA Toolkit.
 FFTSHIFT operations with custom kernels also implemented.
 
-**All input pointers are assumed to already be on the device.**
+**All input && output pointers are assumed to already be on the device.**
 
 ## Provided Functions
 
